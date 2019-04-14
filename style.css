@@ -1,0 +1,36 @@
+body {
+    overflow: no-display;
+    align-items: center;
+}
+
+.textCenter {
+    text-align: center;
+}
+
+.center {
+    align-items: center;
+}
+
+#toolbar {
+    height: auto;
+    width: 90%;
+    align-items: center;
+    margin: 1rem 0.5rem;
+}
+
+.image-button {
+    height: auto;
+    width: 1.5em;
+    margin-left: -0.7rem;
+}
+
+.toolbar-button {
+    height: 3em;
+    width: 3em;
+}
+
+#mainCanvas {
+    border: 3px solid black;
+    display: block;
+    margin: 0 auto;
+}
